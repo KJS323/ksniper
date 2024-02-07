@@ -1,3 +1,1 @@
 # ksniper
-
-#end
